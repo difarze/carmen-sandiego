@@ -1,0 +1,79 @@
+body    {
+    margin: 0;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header {
+    background-color: maroon;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    font-family: 'Lalezar', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h1, h2 {
+    font-family: 'Lalezar', cursive;
+}
+
+header img {
+    border-radius: 50%;
+    width: 300px;
+    border: 10px solid darkred;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    color: orange;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: turquoise;
+}
+
+footer {
+    background-color: maroon;
+    text-align: center;
+    color: white;
+}
+
+footer p {
+    margin: 0px;
+}
+
+footer a {
+    color: plum;
+}
+
+footer a:hover {
+    opacity: white;
+    background-color: rebeccapurple;
+
+}
+/* header style */
+/* header */
+p.caption {
+    color: gray;
+    font-style: italic;
+    margin-top: 0px;
+}
